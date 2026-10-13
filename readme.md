@@ -1,1 +1,2 @@
-Free youtube alternative for muslims to consume halal, ad free, benificial, islamic content. They can sign up to unlock more features.
+# Week 1 Task
+Build a video list app from a blank file (render, search, filter, async fetch). Ship 8+ commits, a merged PR, one resolved conflict. Explain scope/closures, map/filter/reduce, promises vs async/await, event delegation, branch vs merge.
